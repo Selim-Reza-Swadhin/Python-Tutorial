@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f486ca9a-c302-4606-96d0-5b8a7fa92d73" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../AMiALif/while.js" beforeDir="false" afterPath="$PROJECT_DIR$/../AMiALif/while.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animate/first.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Animate/first.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bootstrap/CodersFoundation/form_input.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Bootstrap/CodersFoundation/form_input.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD Bappi/Free template/templatemo_361_design_work/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CD Bappi/Free template/templatemo_361_design_work/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD Bappi/Free template/templatemo_361_design_work/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CD Bappi/Free template/templatemo_361_design_work/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CD Bappi/Free template/templatemo_361_design_work/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CD Bappi/Free template/templatemo_361_design_work/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fontawesome5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Fontawesome5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image_Slider/3D_image_slider.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Image_Slider/3D_image_slider.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image_Slider/Image Slider.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Image_Slider/Image Slider.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image_Slider/autoslide.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Image_Slider/autoslide.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image_Slider/flex.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Image_Slider/flex.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image_Slider/photo/received_1701347440190647.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image_Slider/photo/received_314529582222410.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image_Slider/photo/received_314529952222373.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Image_Slider/photo/received_314531542222214.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jhankar/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Jhankar/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jhankar/garage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jhankar/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Jhankar/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Login/login2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Login/login2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Login/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Login/signup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Login/signupform.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Login/signupform.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySite/complite.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MySite/complite.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySite/create_social_sidebar_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MySite/create_social_sidebar_menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySite/design-compilite.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MySite/design-compilite.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Online Tutorials/bgvedio.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Online Tutorials/bgvedio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sublime text 3/chrome_run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sublime text 3/firefox_run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/Hoisting_var.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/RegExp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/RegExp2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/RegExp3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/array.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/base64_encode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/countdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/date.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/d1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/d2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/d3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/d4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/d5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/d6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/d7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/d8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/d9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/f1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/f3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/f4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/g.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/g1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/g2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/g3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/h.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/h1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/i.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/i1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/i10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/i11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/i12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/i13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/i14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/i15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/i16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/i17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/i18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/i19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/i2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/i20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/i21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/i22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/i23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/i24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/i25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/i26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/i3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/i4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/i5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/i6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/i7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/i8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/i9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/j.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/k1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/l.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/l1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/l2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/m.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/m1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/m2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/n1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/p.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/p1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/q.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/r.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/r1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/r2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/s1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/s2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/s3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/s4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/ss.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/t.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/t2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/t3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/w.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/w1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/dnld/w2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/escape.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/eval.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/factorial.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/fadeinout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/fadeinout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/form1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/form2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/form3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/form4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/form_valid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/func_return_type.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/gerttext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/gettext.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/indexof.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/instanceof.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/intro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/loop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/math.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/mathobject.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/obj.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/own_string.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/primitive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/private.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/prompt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/prototype.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/recursion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/setinterval.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/setinterval.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/settimeout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/settimeout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/static.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/switch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Training Live With Project/this.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VueJS/2waydatabind.html" beforeDir="false" afterPath="$PROJECT_DIR$/../VueJS/2waydatabind.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VueJS/bind.html" beforeDir="false" afterPath="$PROJECT_DIR$/../VueJS/bind.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VueJS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../VueJS/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web Zone/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Web Zone/nav.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hello.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class_object.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exception/index_error.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exception/raise_error.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/filter_fnc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/elif_statement.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/function.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/series_multiple.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hello.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/Python8.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="698" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.series_multiple">
+    <configuration name="class_object" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_object.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="elif_statement" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/elif_statement.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="filter_fnc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/filter_fnc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="series_multiple" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/series_multiple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.series_multiple" />
+        <item itemvalue="Python.function" />
+        <item itemvalue="Python.elif_statement" />
+        <item itemvalue="Python.filter_fnc" />
+        <item itemvalue="Python.class_object" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f486ca9a-c302-4606-96d0-5b8a7fa92d73" name="Default Changelist" comment="" />
+      <created>1572535435413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572535435413</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14583333" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32850242" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32850242" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class_object.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception/index_error.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception/raise_error.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filter_fnc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elif_statement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/series_multiple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
